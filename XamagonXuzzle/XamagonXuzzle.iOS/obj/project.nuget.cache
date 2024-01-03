@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "l4CBEwB2Clj1a4WCpvDQmM3MkW5Izrz91jPn5hBY3wk54nwMrpxt3IDSNIVFMue4pHAUsAgwVmhKkPJgLdVf5Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\APLICACIONES MOVILES\\Desktop\\xamari\\XamagonXuzzle\\XamagonXuzzle\\XamagonXuzzle.iOS\\XamagonXuzzle.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\APLICACIONES MOVILES\\.nuget\\packages\\xamarin.forms\\3.1.0.637273\\xamarin.forms.3.1.0.637273.nupkg.sha512"
+  ],
+  "logs": []
+}

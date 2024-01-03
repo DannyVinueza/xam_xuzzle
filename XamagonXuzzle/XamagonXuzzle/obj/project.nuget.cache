@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "wrN7BM6pCfRd4lWKH7rk1MdP9FR/PXBipTd4jVOdnRmVeC7aqIsImVF03A0hq6l2d4gnueBYvLvI1+kaV0yqFg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\APLICACIONES MOVILES\\Desktop\\xamari\\XamagonXuzzle\\XamagonXuzzle\\XamagonXuzzle\\XamagonXuzzle.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\APLICACIONES MOVILES\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\APLICACIONES MOVILES\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\APLICACIONES MOVILES\\.nuget\\packages\\xamarin.forms\\5.0.0.2622\\xamarin.forms.5.0.0.2622.nupkg.sha512"
+  ],
+  "logs": []
+}
